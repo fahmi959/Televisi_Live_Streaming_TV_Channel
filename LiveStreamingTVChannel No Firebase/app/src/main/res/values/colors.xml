@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="holo_red_dark">#C62828</color> <!-- Deep Red Color -->
+    <color name="toast_background">#FF5722</color> <!-- Optional: Custom color for toast -->
+</resources>
